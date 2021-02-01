@@ -3,7 +3,6 @@ let artist = {
   albums: [
     {
       title: "Elvis Presley",
-      year: 1956,
       chartPosition: 1
     },
     {
