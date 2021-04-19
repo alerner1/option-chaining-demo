@@ -13,7 +13,7 @@ let artist = {
     },
     // {
     //   title: "Elvis' Christmas Album",
-    //   year: 1957,
+    //   year: 1957, 
     //   chartPosition: 1
     // }
   ]
