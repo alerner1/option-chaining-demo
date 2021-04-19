@@ -10,6 +10,6 @@ let artist = {
       title: "Elvis",
       year: 1956,
       chartPosition: 1
-    },
+    }
   ]
 }
